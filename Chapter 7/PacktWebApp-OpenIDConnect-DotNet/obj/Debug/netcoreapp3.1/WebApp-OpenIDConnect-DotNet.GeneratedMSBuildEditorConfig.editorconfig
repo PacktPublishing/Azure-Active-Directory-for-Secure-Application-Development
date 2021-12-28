@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebApp-OpenIDConnect-DotNet
+build_property.ProjectDir = C:\Users\SjoukjeZaal\Downloads\a\active-directory-aspnetcore-webapp-openidconnect-v2-master\1-WebApp-OIDC\1-5-B2C\

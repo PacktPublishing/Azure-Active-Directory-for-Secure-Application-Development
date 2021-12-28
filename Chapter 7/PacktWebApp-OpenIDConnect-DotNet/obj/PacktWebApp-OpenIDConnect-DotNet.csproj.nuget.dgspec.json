@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SjoukjeZaal\\GitHub\\Azure-Active-Directory-for-Developers\\Chapter 7\\PacktWebApp-OpenIDConnect-DotNet\\PacktWebApp-OpenIDConnect-DotNet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SjoukjeZaal\\GitHub\\Azure-Active-Directory-for-Developers\\Chapter 7\\PacktWebApp-OpenIDConnect-DotNet\\PacktWebApp-OpenIDConnect-DotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SjoukjeZaal\\GitHub\\Azure-Active-Directory-for-Developers\\Chapter 7\\PacktWebApp-OpenIDConnect-DotNet\\PacktWebApp-OpenIDConnect-DotNet.csproj",
+        "projectName": "PacktWebApp-OpenIDConnect-DotNet",
+        "projectPath": "C:\\Users\\SjoukjeZaal\\GitHub\\Azure-Active-Directory-for-Developers\\Chapter 7\\PacktWebApp-OpenIDConnect-DotNet\\PacktWebApp-OpenIDConnect-DotNet.csproj",
+        "packagesPath": "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SjoukjeZaal\\GitHub\\Azure-Active-Directory-for-Developers\\Chapter 7\\PacktWebApp-OpenIDConnect-DotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SjoukjeZaal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.17, 3.1.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
