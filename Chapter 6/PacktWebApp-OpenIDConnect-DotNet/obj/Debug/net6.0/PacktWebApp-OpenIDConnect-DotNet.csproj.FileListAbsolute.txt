@@ -103,7 +103,12 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\Pack
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\staticwebassets\PacktWebApp-OpenIDConnect-DotNet.StaticWebAssets.Manifest.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\scopedcss\bundle\PacktWebApp-OpenIDConnect-DotNet.styles.css
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\PacktWebApp-OpenIDConnect-DotNet.csproj.CopyComplete
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\PacktWebApp-OpenIDConnect-DotNet.genruntimeconfig.cache
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\bin\Debug\net6.0\PacktWebApp-OpenIDConnect-DotNet.staticwebassets.runtime.json
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\PacktWebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cache
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\PacktWebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cs
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 6\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\net6.0\staticwebassets.development.json
