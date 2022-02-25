@@ -258,7 +258,6 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebA
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
@@ -313,7 +312,6 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebA
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\System.Text.Json.dll
@@ -353,8 +351,6 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebA
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.RazorAssemblyInfo.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.RazorAssemblyInfo.cs
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_DotNET.StaticWebAssets.Manifest.cache
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_DotNET.StaticWebAssets.xml
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp_DotNET.styles.css
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.TagHelpers.input.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.TagHelpers.output.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.RazorCoreGenerate.cache
@@ -373,3 +369,8 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebA
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.pdb
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.genruntimeconfig.cache
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\obj\Debug\netcoreapp3.1\WebApp_DotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Certificate.dll
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Validators.dll
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 3\WebApp_DotNET\WebApp_DotNET\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
