@@ -41,8 +41,6 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\Pack
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cs
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\staticwebassets\PacktWebApp-OpenIDConnect-DotNet.StaticWebAssets.Manifest.cache
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\staticwebassets\PacktWebApp-OpenIDConnect-DotNet.StaticWebAssets.xml
-C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\scopedcss\bundle\PacktWebApp-OpenIDConnect-DotNet.styles.css
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.TagHelpers.input.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.TagHelpers.output.cache
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.RazorCoreGenerate.cache
@@ -62,3 +60,5 @@ C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\Pack
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.dll
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.pdb
 C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.genruntimeconfig.cache
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\bin\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.StaticWebAssets.xml
+C:\Users\SjoukjeZaal\GitHub\Azure-Active-Directory-for-Developers\Chapter 7\PacktWebApp-OpenIDConnect-DotNet\obj\Debug\netcoreapp3.1\PacktWebApp-OpenIDConnect-DotNet.GeneratedMSBuildEditorConfig.editorconfig

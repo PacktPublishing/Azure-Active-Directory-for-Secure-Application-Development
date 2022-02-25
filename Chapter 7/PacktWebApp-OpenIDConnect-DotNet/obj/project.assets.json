@@ -310,7 +310,7 @@
           "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
-      "Microsoft.Identity.Client/4.38.0": {
+      "Microsoft.Identity.Client/4.41.0": {
         "type": "package",
         "compile": {
           "lib/netcoreapp2.1/Microsoft.Identity.Client.dll": {}
@@ -332,17 +332,17 @@
           "lib/netcoreapp2.1/Microsoft.Identity.Client.Extensions.Msal.dll": {}
         }
       },
-      "Microsoft.Identity.Web/1.21.0": {
+      "Microsoft.Identity.Web/1.23.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.18",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "3.1.18",
-          "Microsoft.Identity.Web.Certificate": "1.21.0",
-          "Microsoft.Identity.Web.TokenCache": "1.21.0",
-          "Microsoft.IdentityModel.Logging": "6.14.1",
-          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.14.1",
-          "Microsoft.IdentityModel.Validators": "6.14.1",
-          "System.IdentityModel.Tokens.Jwt": "6.14.1",
+          "Microsoft.Identity.Web.Certificate": "1.23.0",
+          "Microsoft.Identity.Web.TokenCache": "1.23.0",
+          "Microsoft.IdentityModel.Logging": "6.15.1",
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1",
+          "Microsoft.IdentityModel.Validators": "6.15.1",
+          "System.IdentityModel.Tokens.Jwt": "6.15.1",
           "System.Text.Encodings.Web": "5.0.1"
         },
         "compile": {
@@ -352,7 +352,7 @@
           "lib/netcoreapp3.1/Microsoft.Identity.Web.dll": {}
         }
       },
-      "Microsoft.Identity.Web.Certificate/1.21.0": {
+      "Microsoft.Identity.Web.Certificate/1.23.0": {
         "type": "package",
         "dependencies": {
           "Azure.Identity": "1.3.0",
@@ -367,13 +367,13 @@
           "lib/netcoreapp3.1/Microsoft.Identity.Web.Certificate.dll": {}
         }
       },
-      "Microsoft.Identity.Web.TokenCache/1.21.0": {
+      "Microsoft.Identity.Web.TokenCache/1.23.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.DataProtection": "3.0.0",
           "Microsoft.Extensions.Caching.Memory": "3.0.0",
           "Microsoft.Extensions.Logging": "3.0.0",
-          "Microsoft.Identity.Client": "4.38.0",
+          "Microsoft.Identity.Client": "4.41.0",
           "System.Text.Encodings.Web": "4.7.2"
         },
         "compile": {
@@ -383,10 +383,10 @@
           "lib/netcoreapp3.1/Microsoft.Identity.Web.TokenCache.dll": {}
         }
       },
-      "Microsoft.Identity.Web.UI/1.21.0": {
+      "Microsoft.Identity.Web.UI/1.23.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Identity.Web": "1.21.0"
+          "Microsoft.Identity.Web": "1.23.0"
         },
         "compile": {
           "lib/netcoreapp3.1/Microsoft.Identity.Web.UI.Views.dll": {},
@@ -400,10 +400,10 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Microsoft.IdentityModel.JsonWebTokens/6.14.1": {
+      "Microsoft.IdentityModel.JsonWebTokens/6.15.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.IdentityModel.Tokens": "6.14.1"
+          "Microsoft.IdentityModel.Tokens": "6.15.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {}
@@ -412,7 +412,7 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {}
         }
       },
-      "Microsoft.IdentityModel.Logging/6.14.1": {
+      "Microsoft.IdentityModel.Logging/6.15.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {}
@@ -421,11 +421,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {}
         }
       },
-      "Microsoft.IdentityModel.Protocols/6.14.1": {
+      "Microsoft.IdentityModel.Protocols/6.15.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.IdentityModel.Logging": "6.14.1",
-          "Microsoft.IdentityModel.Tokens": "6.14.1"
+          "Microsoft.IdentityModel.Logging": "6.15.1",
+          "Microsoft.IdentityModel.Tokens": "6.15.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {}
@@ -434,11 +434,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {}
         }
       },
-      "Microsoft.IdentityModel.Protocols.OpenIdConnect/6.14.1": {
+      "Microsoft.IdentityModel.Protocols.OpenIdConnect/6.15.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.IdentityModel.Protocols": "6.14.1",
-          "System.IdentityModel.Tokens.Jwt": "6.14.1"
+          "Microsoft.IdentityModel.Protocols": "6.15.1",
+          "System.IdentityModel.Tokens.Jwt": "6.15.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {}
@@ -447,11 +447,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {}
         }
       },
-      "Microsoft.IdentityModel.Tokens/6.14.1": {
+      "Microsoft.IdentityModel.Tokens/6.15.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.5.0",
-          "Microsoft.IdentityModel.Logging": "6.14.1",
+          "Microsoft.IdentityModel.Logging": "6.15.1",
           "System.Security.Cryptography.Cng": "4.5.0"
         },
         "compile": {
@@ -461,12 +461,12 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {}
         }
       },
-      "Microsoft.IdentityModel.Validators/6.14.1": {
+      "Microsoft.IdentityModel.Validators/6.15.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.IdentityModel.Protocols": "6.14.1",
-          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.14.1",
-          "System.IdentityModel.Tokens.Jwt": "6.14.1"
+          "Microsoft.IdentityModel.Protocols": "6.15.1",
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1",
+          "System.IdentityModel.Tokens.Jwt": "6.15.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.IdentityModel.Validators.dll": {}
@@ -566,11 +566,11 @@
           }
         }
       },
-      "System.IdentityModel.Tokens.Jwt/6.14.1": {
+      "System.IdentityModel.Tokens.Jwt/6.15.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.IdentityModel.JsonWebTokens": "6.14.1",
-          "Microsoft.IdentityModel.Tokens": "6.14.1"
+          "Microsoft.IdentityModel.JsonWebTokens": "6.15.1",
+          "Microsoft.IdentityModel.Tokens": "6.15.1"
         },
         "compile": {
           "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {}
@@ -1179,10 +1179,10 @@
         "microsoft.extensions.primitives.nuspec"
       ]
     },
-    "Microsoft.Identity.Client/4.38.0": {
-      "sha512": "fADpikF/MKzS7+aIpZXgXsKZHgILAQ6y6xD4iN7H49F4SvYGgg6CLPigN0zD656NrJd++MBIQh8sZ8nqomVhbw==",
+    "Microsoft.Identity.Client/4.41.0": {
+      "sha512": "kLbtNzNS60JplOzFlMlVnyHJjjzfembvuHwtSTicVUreYQ8J4bkdh7PM5jy13lg5a4g8tecmrW2VBVMFCePWMA==",
       "type": "package",
-      "path": "microsoft.identity.client/4.38.0",
+      "path": "microsoft.identity.client/4.41.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1207,7 +1207,7 @@
         "lib/xamarinios10/Microsoft.Identity.Client.xml",
         "lib/xamarinmac20/Microsoft.Identity.Client.dll",
         "lib/xamarinmac20/Microsoft.Identity.Client.xml",
-        "microsoft.identity.client.4.38.0.nupkg.sha512",
+        "microsoft.identity.client.4.41.0.nupkg.sha512",
         "microsoft.identity.client.nuspec"
       ]
     },
@@ -1228,10 +1228,10 @@
         "microsoft.identity.client.extensions.msal.nuspec"
       ]
     },
-    "Microsoft.Identity.Web/1.21.0": {
-      "sha512": "oomqgquUvJIk9hiiRyRk5IQALxfT9u4QnaBLyvzI+JYrC2i5kr7WbDcOh4yTwUYH6KxLCccaBiyDwAhpCPmJnA==",
+    "Microsoft.Identity.Web/1.23.0": {
+      "sha512": "MHycS2WRGjmNfEYHfFZONUI6nr4k+G/O+OzxlP3ng64DAHhio0MPi6YbIEwuNd9MFZxDtZ+8goGtoVG0I9yfVQ==",
       "type": "package",
-      "path": "microsoft.identity.web/1.21.0",
+      "path": "microsoft.identity.web/1.23.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1244,14 +1244,14 @@
         "lib/net5.0/Microsoft.Identity.Web.xml",
         "lib/netcoreapp3.1/Microsoft.Identity.Web.dll",
         "lib/netcoreapp3.1/Microsoft.Identity.Web.xml",
-        "microsoft.identity.web.1.21.0.nupkg.sha512",
+        "microsoft.identity.web.1.23.0.nupkg.sha512",
         "microsoft.identity.web.nuspec"
       ]
     },
-    "Microsoft.Identity.Web.Certificate/1.21.0": {
-      "sha512": "He3Rv/U9U/JafrC0H/7cVI0qAabzkN8YMqsnWrvzFpSxHMApfLPgwaeWFh+6U3c16l/jmyO7m/oHZeQv2ShyUQ==",
+    "Microsoft.Identity.Web.Certificate/1.23.0": {
+      "sha512": "+RhuP4T2nyxr7KU0rbJrjHDwg7IjgbITO+7P6TSi4fGN/lo1lmM5i+88TxVEWqO/vVploP+P5GKafloXSvFsyA==",
       "type": "package",
-      "path": "microsoft.identity.web.certificate/1.21.0",
+      "path": "microsoft.identity.web.certificate/1.23.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1266,14 +1266,14 @@
         "lib/netcoreapp3.1/Microsoft.Identity.Web.Certificate.xml",
         "lib/netstandard2.0/Microsoft.Identity.Web.Certificate.dll",
         "lib/netstandard2.0/Microsoft.Identity.Web.Certificate.xml",
-        "microsoft.identity.web.certificate.1.21.0.nupkg.sha512",
+        "microsoft.identity.web.certificate.1.23.0.nupkg.sha512",
         "microsoft.identity.web.certificate.nuspec"
       ]
     },
-    "Microsoft.Identity.Web.TokenCache/1.21.0": {
-      "sha512": "niktkUvioHBj3BwJ9l9danP3FoGP0LMb7n0U+lZqIHNuPItK6WJ0erJA7PvTlNVFvQ+CwZ3bI7+oSvCz3ww2+Q==",
+    "Microsoft.Identity.Web.TokenCache/1.23.0": {
+      "sha512": "hk4x8v0fjfjxsYwUtamuYczlZS9zyk+g8tlaPFnEPo7ldFJjf/w912faFPqcDJoC8Va5Ykyw1prdQouORAn9zg==",
       "type": "package",
-      "path": "microsoft.identity.web.tokencache/1.21.0",
+      "path": "microsoft.identity.web.tokencache/1.23.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1288,14 +1288,14 @@
         "lib/netcoreapp3.1/Microsoft.Identity.Web.TokenCache.xml",
         "lib/netstandard2.0/Microsoft.Identity.Web.TokenCache.dll",
         "lib/netstandard2.0/Microsoft.Identity.Web.TokenCache.xml",
-        "microsoft.identity.web.tokencache.1.21.0.nupkg.sha512",
+        "microsoft.identity.web.tokencache.1.23.0.nupkg.sha512",
         "microsoft.identity.web.tokencache.nuspec"
       ]
     },
-    "Microsoft.Identity.Web.UI/1.21.0": {
-      "sha512": "XvXIg31SBYH8Dpib+o5wfJwfbNbYdZt9Y3/7RwG2IGwebW9VNGzZ/0ByzULa67eVQrRrmdmvCFuhYJFgzEQ60A==",
+    "Microsoft.Identity.Web.UI/1.23.0": {
+      "sha512": "RlB71i8lw3qxwBOV20fAkl66mhjOQFJZAtcFH4nGTFfZ6OoWqyaFE1zRpPFT6GzA2/2xHVoY6P58wXY3WLjhtg==",
       "type": "package",
-      "path": "microsoft.identity.web.ui/1.21.0",
+      "path": "microsoft.identity.web.ui/1.23.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1306,14 +1306,14 @@
         "lib/netcoreapp3.1/Microsoft.Identity.Web.UI.Views.dll",
         "lib/netcoreapp3.1/Microsoft.Identity.Web.UI.dll",
         "lib/netcoreapp3.1/Microsoft.Identity.Web.UI.xml",
-        "microsoft.identity.web.ui.1.21.0.nupkg.sha512",
+        "microsoft.identity.web.ui.1.23.0.nupkg.sha512",
         "microsoft.identity.web.ui.nuspec"
       ]
     },
-    "Microsoft.IdentityModel.JsonWebTokens/6.14.1": {
-      "sha512": "9/KU/JWhTJ8Cs7YwfQD1ihoTiVUI7HI0ZoqdOGhKiRoV855wE5O1O9stIZzAZ/ES1b4X+j21ULkQGO3a3mK22w==",
+    "Microsoft.IdentityModel.JsonWebTokens/6.15.1": {
+      "sha512": "X5K/Pt02agb1V+khh5u7Q8hg02IVTshxV5owpR7UdQ9zfs0+A6qzca0F9jyv3o8SlOjEFHBabs+5cp7Noofzvg==",
       "type": "package",
-      "path": "microsoft.identitymodel.jsonwebtokens/6.14.1",
+      "path": "microsoft.identitymodel.jsonwebtokens/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1325,14 +1325,14 @@
         "lib/net472/Microsoft.IdentityModel.JsonWebTokens.xml",
         "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
         "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.xml",
-        "microsoft.identitymodel.jsonwebtokens.6.14.1.nupkg.sha512",
+        "microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
         "microsoft.identitymodel.jsonwebtokens.nuspec"
       ]
     },
-    "Microsoft.IdentityModel.Logging/6.14.1": {
-      "sha512": "yjB8cYrRwQp/sX0JhpXHggUwF4YhyMoVE0Mzdyc9Z0gFikOej4dUNlnG7H9J5SCmI2xjLAYxinyDIzmGBFqCbg==",
+    "Microsoft.IdentityModel.Logging/6.15.1": {
+      "sha512": "PpZHL/Bt/8vQ8g/6LxweuI1EusV0ogUBYnGM+bPeL/SG89gx2n05xKNE/U5JNEkLFLL+sk7O8T7c/PXhFtUtUg==",
       "type": "package",
-      "path": "microsoft.identitymodel.logging/6.14.1",
+      "path": "microsoft.identitymodel.logging/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1344,14 +1344,14 @@
         "lib/net472/Microsoft.IdentityModel.Logging.xml",
         "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
         "lib/netstandard2.0/Microsoft.IdentityModel.Logging.xml",
-        "microsoft.identitymodel.logging.6.14.1.nupkg.sha512",
+        "microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
         "microsoft.identitymodel.logging.nuspec"
       ]
     },
-    "Microsoft.IdentityModel.Protocols/6.14.1": {
-      "sha512": "5+lB8MsK63ZP899svqhdoHr9g57kQkJDvABo71lIPMVcbIZZfRn44IXQwblr89Hzoe1sVsC7OadG6AVxh5Zi5Q==",
+    "Microsoft.IdentityModel.Protocols/6.15.1": {
+      "sha512": "6nHr+4yE8vj620Vy4L0pl7kmkvWc06wBrJ+AOo/gjqzu/UD/MYgySUqRGlZYrvvNmKkUWMw4hdn78MPCb4bstA==",
       "type": "package",
-      "path": "microsoft.identitymodel.protocols/6.14.1",
+      "path": "microsoft.identitymodel.protocols/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1363,14 +1363,14 @@
         "lib/net472/Microsoft.IdentityModel.Protocols.xml",
         "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
         "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.xml",
-        "microsoft.identitymodel.protocols.6.14.1.nupkg.sha512",
+        "microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
         "microsoft.identitymodel.protocols.nuspec"
       ]
     },
-    "Microsoft.IdentityModel.Protocols.OpenIdConnect/6.14.1": {
-      "sha512": "CG/6Zxu1dehNKBdFgAyCrAR9l1RgV6eCNiJhb20E+W3nSuSJy+Y9O85VX5qsHyqnEdvCEYZn8Bw7HLssY2ztQw==",
+    "Microsoft.IdentityModel.Protocols.OpenIdConnect/6.15.1": {
+      "sha512": "WwecgT/PNrytLNUWjkYtnnG2LXMAzkINSaZM+8dPPiEpOGz1bQDBWAenTSurYICxGoA1sOPriFXk+ocnQyprKw==",
       "type": "package",
-      "path": "microsoft.identitymodel.protocols.openidconnect/6.14.1",
+      "path": "microsoft.identitymodel.protocols.openidconnect/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1382,14 +1382,14 @@
         "lib/net472/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
         "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
         "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
-        "microsoft.identitymodel.protocols.openidconnect.6.14.1.nupkg.sha512",
+        "microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
         "microsoft.identitymodel.protocols.openidconnect.nuspec"
       ]
     },
-    "Microsoft.IdentityModel.Tokens/6.14.1": {
-      "sha512": "14Z15Rwd0V6+m7mxbRWH2CrT2PK/B3H3R8qGNDeI6lSPFIQTq/1AJaYkCGcVX1xlKSowdNYaAROMaPbiWv8KIQ==",
+    "Microsoft.IdentityModel.Tokens/6.15.1": {
+      "sha512": "0bd0ocKuNai0/GdhboIW37R6z8I0vFqlmiPeG055SJxPPJ7dfBo2tjJ3bPV9vjFCRDuusj24dldOsg4hWui6iw==",
       "type": "package",
-      "path": "microsoft.identitymodel.tokens/6.14.1",
+      "path": "microsoft.identitymodel.tokens/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1401,14 +1401,14 @@
         "lib/net472/Microsoft.IdentityModel.Tokens.xml",
         "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
         "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.xml",
-        "microsoft.identitymodel.tokens.6.14.1.nupkg.sha512",
+        "microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
-    "Microsoft.IdentityModel.Validators/6.14.1": {
-      "sha512": "ERwfhE6ap9pcFVX4YDL5seTX21FPT3+IcYC8gt3O8Kk+42u4TrbG4s0YQ0PokAOqSdcWQ0VpY6XC2WXxrgAf3g==",
+    "Microsoft.IdentityModel.Validators/6.15.1": {
+      "sha512": "SJrwuS1Gmr6ua2hg7ed9Y6gnjbWhmhAdQdloiZyUqoXxMXaNSXfGLDY54CKoKrq6TBhOMnh+4EBOj9GHKOhM+w==",
       "type": "package",
-      "path": "microsoft.identitymodel.validators/6.14.1",
+      "path": "microsoft.identitymodel.validators/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1420,7 +1420,7 @@
         "lib/net472/Microsoft.IdentityModel.Validators.xml",
         "lib/netstandard2.0/Microsoft.IdentityModel.Validators.dll",
         "lib/netstandard2.0/Microsoft.IdentityModel.Validators.xml",
-        "microsoft.identitymodel.validators.6.14.1.nupkg.sha512",
+        "microsoft.identitymodel.validators.6.15.1.nupkg.sha512",
         "microsoft.identitymodel.validators.nuspec"
       ]
     },
@@ -1610,10 +1610,10 @@
         "version.txt"
       ]
     },
-    "System.IdentityModel.Tokens.Jwt/6.14.1": {
-      "sha512": "aZGtxO8rx1h3KSzHYWXoPg47YGo5kON0Ot+L72A4bv44LMZZNqXfXyhSNLhVhaD24mlwYIXoyIaed4sXmrpA7Q==",
+    "System.IdentityModel.Tokens.Jwt/6.15.1": {
+      "sha512": "q3ZLyWmpX4+jW4XITf7Axd+9sC6w2NrQaKcQQT9A8waoknHgaNwSeookpUmPMQDqS0afT9Lh0JYub196vzuzbA==",
       "type": "package",
-      "path": "system.identitymodel.tokens.jwt/6.14.1",
+      "path": "system.identitymodel.tokens.jwt/6.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1625,7 +1625,7 @@
         "lib/net472/System.IdentityModel.Tokens.Jwt.xml",
         "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
         "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.xml",
-        "system.identitymodel.tokens.jwt.6.14.1.nupkg.sha512",
+        "system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
         "system.identitymodel.tokens.jwt.nuspec"
       ]
     },
@@ -2123,8 +2123,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.Identity.Web >= 1.21.0",
-      "Microsoft.Identity.Web.UI >= 1.21.0"
+      "Microsoft.Identity.Web >= 1.23.0",
+      "Microsoft.Identity.Web.UI >= 1.23.0"
     ]
   },
   "packageFolders": {
@@ -2176,11 +2176,11 @@
         "dependencies": {
           "Microsoft.Identity.Web": {
             "target": "Package",
-            "version": "[1.21.0, )"
+            "version": "[1.23.0, )"
           },
           "Microsoft.Identity.Web.UI": {
             "target": "Package",
-            "version": "[1.21.0, )"
+            "version": "[1.23.0, )"
           }
         },
         "imports": [
@@ -2196,7 +2196,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.17, 3.1.17]"
+            "version": "[3.1.22, 3.1.22]"
           }
         ],
         "frameworkReferences": {
@@ -2207,7 +2207,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
