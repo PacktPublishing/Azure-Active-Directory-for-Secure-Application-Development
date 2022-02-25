@@ -29,12 +29,11 @@ namespace WebApp_DotNET
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddAuthentication(OpenIdConnectDefaults..AuthenticationScheme)
-            //    .AddMicrosoftIdentityWebApp(Configuration.GetSection("AzureAd"));
-
+            services.AddAuthentication(OpenIdConnectDefaults.AuthenticationScheme)
+                .AddMicrosoftIdentityWebApp(Configuration.GetSection("AzureAd"));
 
             //This will enable the application to use the Microsoft identity platform endpoint, which is capable of signing in users with both Work and School accounts and personal Microsoft accounts 
-            services.AddMicrosoftIdentityWebAppAuthentication(Configuration);
+            //services.AddMicrosoftIdentityWebAppAuthentication(Configuration);
 
             //Add the built-in sign-in and sign-out page
             services.AddControllersWithViews(options =>
